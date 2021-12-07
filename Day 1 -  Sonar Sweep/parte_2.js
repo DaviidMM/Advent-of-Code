@@ -18,4 +18,4 @@ for (let i = 0; i < input.length; i++) {
   }
   prevSum = windowSum;
 }
-console.log(results); // { positive: 1706, negative: 291 }
+console.log("Resultado del reto: " + results.positive); // Resultado del reto: 1706
