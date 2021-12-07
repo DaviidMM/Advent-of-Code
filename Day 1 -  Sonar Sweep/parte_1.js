@@ -15,4 +15,4 @@ for (let i = 0; i < input.length; i++) {
   prevValue = actualValue;
 }
 
-console.log(results); // { positive: 1676, negative: 323 }
+console.log("Resultado del reto: " + results.positive); // { positive: 1676, negative: 323 }
