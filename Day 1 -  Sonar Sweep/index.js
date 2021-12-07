@@ -15,4 +15,4 @@ for (let i = 0; i < input.length; i++) {
   prevValue = actualValue;
 }
 
-console.log(results);
+console.log(results); // { positive: 1676, negative: 323 }
