@@ -19,4 +19,4 @@ input.forEach(command => {
   }
 });
 
-console.log(position.horizontal * position.depth); // 1855814
+console.log("Resultado del reto: " + position.horizontal * position.depth); // Resultado del reto: 1855814
