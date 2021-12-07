@@ -20,4 +20,5 @@ input.forEach(command => {
     position.aim+=movement.units
   }
 });
-console.log(`Resultado del reto: ${position.horizontal * position.depth}`); // 1845455714
+
+console.log(`Resultado del reto: ${position.horizontal * position.depth}`); // Resultado del reto: 1845455714
